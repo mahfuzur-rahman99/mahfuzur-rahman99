@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahfuzur-rahman99&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mahfuzur-rahman99?label=Followers&style=flat&color=0e75b6" alt="Followers" />
 </p>
 
 ---
