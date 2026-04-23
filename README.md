@@ -13,7 +13,7 @@
 
 ## 🧑‍🎓 About Me
 
-- 🎓 **CSE Graduate** from Daffodil International University, Dhaka, Bangladesh
+- 🎓 **CSE Graduate** from **Daffodil International University, Dhaka, Bangladesh**
 - 🔬 Passionate about **Machine Learning**, **Deep Learning**, and **AI Research**
 - 📊 Interested in solving real-world problems through **Data Science**
 - 📝 Actively publishing and exploring research in AI/ML domains
