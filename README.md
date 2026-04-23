@@ -107,6 +107,9 @@
   <a href="https://orcid.org/0009-0009-1350-6434" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
   </a>
+  <a href="mailto:mahfuzrahman.cse@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
