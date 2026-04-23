@@ -13,7 +13,7 @@
 
 ## 🧑‍🎓 About Me
 
-- 🎓 **CSE Graduate** from Dhaka, Bangladesh
+- 🎓 **CSE Graduate** from Daffodil International University, Dhaka, Bangladesh
 - 🔬 Passionate about **Machine Learning**, **Deep Learning**, and **AI Research**
 - 📊 Interested in solving real-world problems through **Data Science**
 - 📝 Actively publishing and exploring research in AI/ML domains
@@ -100,12 +100,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/mahfuzur-rahman99" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/MahfuzurRabbi" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/mahfuz.rabbi176" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.researchgate.net/profile/Mahfuzur-Rahman-71" target="_blank">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
