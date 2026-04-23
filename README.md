@@ -86,7 +86,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahfuzur-rahman99&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzur-rahman99&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzur-rahman99&layout=compact&theme=github_dark&hide_border=true" width="48%&hide=jupyter%20notebook" />
 </p>
 
 <p align="center">
